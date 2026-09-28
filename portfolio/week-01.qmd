@@ -8,11 +8,7 @@ description: "Evidence person, personality, character, objective, repertoire, la
 categories: [Fondasi, Person]
 ---
 
----
-title: "Minggu 1 — Character Map"
-week: 1
-sidebar: portfolio
----
+
 
 ## Lima character
 

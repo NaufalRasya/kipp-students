@@ -1421,95 +1421,51 @@
     "href": "portfolio/week-08.html",
     "title": "Portfolio Minggu 8 — UTS KIPP",
     "section": "",
-    "text": "Mengintegrasikan person recognition, state recognition, repertoire, language, response, dan adaptation.",
+    "text": "TipMulai mengisi\n\n\n\nBaca instruksi UTS, jalankan ZIP sesuai NIM, lalu isi makalah dan lima laporan pada tabel berikut. Lihat contoh jawaban Minggu 8 untuk acuan struktur dan analisis. Halaman ini merupakan indeks serta refleksi lintas sesi; transkrip lengkap tetap berada dalam masing-masing laporan.",
     "crumbs": [
       "Beranda",
       "Portfolio Minggu 8 — UTS KIPP"
     ]
   },
   {
-    "objectID": "portfolio/week-08.html#kompetensi-target",
-    "href": "portfolio/week-08.html#kompetensi-target",
+    "objectID": "portfolio/week-08.html#identitas-dan-status-paket",
+    "href": "portfolio/week-08.html#identitas-dan-status-paket",
     "title": "Portfolio Minggu 8 — UTS KIPP",
-    "section": "",
-    "text": "Mengintegrasikan person recognition, state recognition, repertoire, language, response, dan adaptation.",
+    "section": "Identitas dan status paket",
+    "text": "Identitas dan status paket\n\n\n\n\n\n\n\nElemen\nIsi mahasiswa\n\n\n\n\nNama\n[Isi]\n\n\nNIM\n[Isi sebagai teks; pertahankan nol di awal]\n\n\nKelas\n[Isi]\n\n\nPeriode/tanggal pelaksanaan\n[Isi tanggal aktual setiap sesi pada laporan]\n\n\nVersi bank/paket aktif\n[Salin dari PENUGASAN.md dalam ZIP Anda]\n\n\nModalitas\n[Teks/suara; sumber transkripsi]\n\n\nStatus pengumpulan\n[Belum diunggah/sudah diunggah; bukti bila tersedia]",
     "crumbs": [
       "Beranda",
       "Portfolio Minggu 8 — UTS KIPP"
     ]
   },
   {
-    "objectID": "portfolio/week-08.html#evidence-wajib",
-    "href": "portfolio/week-08.html#evidence-wajib",
+    "objectID": "portfolio/week-08.html#makalah-dan-lima-laporan",
+    "href": "portfolio/week-08.html#makalah-dan-lima-laporan",
     "title": "Portfolio Minggu 8 — UTS KIPP",
-    "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nPerformance card dan initial state.\nRekaman/transcript serta observer sheet.\nFeedback, replay, evidence improvement, dan reflection.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 8 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "section": "Makalah dan lima laporan",
+    "text": "Makalah dan lima laporan\n\n\n\nTahap\nTemplate untuk diisi\nTarget sesuai ZIP\nStatus\nBukti/ID atau bagian yang masih kurang\n\n\n\n\nPra-UTS\npaper.qmd\nKajian empat pertanyaan MBTI/PASK\nBelum dimulai\n[Isi]\n\n\n1\nhasil_1.qmd\nDiri; [nama/ID pembanding]\nBelum dimulai\n[Isi]\n\n\n2a\nhasil_2a.qmd\n[Nama/ID target pertama kasus 2]\nBelum dimulai\n[Isi]\n\n\n2b\nhasil_2b.qmd\n[Nama/ID target kedua; berbeda dari 2a]\nBelum dimulai\n[Isi]\n\n\n3a\nhasil_3a.qmd\n[Nama/ID target pertama kasus 3]\nBelum dimulai\n[Isi]\n\n\n3b\nhasil_3b.qmd\n[Nama/ID target kedua; berbeda dari 3a]\nBelum dimulai\n[Isi]",
     "crumbs": [
       "Beranda",
       "Portfolio Minggu 8 — UTS KIPP"
     ]
   },
   {
-    "objectID": "portfolio/week-08.html#konteks-performance",
-    "href": "portfolio/week-08.html#konteks-performance",
+    "objectID": "portfolio/week-08.html#bobot-dan-nilai-akhir-uts",
+    "href": "portfolio/week-08.html#bobot-dan-nilai-akhir-uts",
     "title": "Portfolio Minggu 8 — UTS KIPP",
-    "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "section": "Bobot dan nilai akhir UTS",
+    "text": "Bobot dan nilai akhir UTS\n\n\n\nKomponen\nBobot\nNilai komponen\n\n\n\n\nMakalah pra-UTS (paper.qmd)\n10%\nNilai dosen pada skala 0–100\n\n\nSesi 1\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 2a\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 2b\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 3a\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 3b\n18%\nJumlah enam skor / 24 × 100\n\n\nTotal\n100%\n\n\n\n\nNilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b), dengan seluruh nilai komponen pada skala 0–100. Bobot ini berlaku di dalam nilai UTS.\nNilai sesi hanya dihitung jika keenam skor sah tersedia. BT berarti belum dapat ditetapkan, bukan nol; komponen yang belum tersedia atau belum dapat dinilai tidak dianggap nol dan bobotnya tidak dinormalisasi ulang. Nilai akhir ditulis Belum dihitung sampai nilai makalah dan kelima sesi tersedia.\nRata-rata sesi 2a/2b dan 3a/3b boleh ditampilkan sebagai ringkasan Kasus 2 dan 3. Kontribusi Kasus 1 adalah 18%, Kasus 2 adalah 36%, dan Kasus 3 adalah 36%; ringkasan kasus tidak dihitung lagi sebagai komponen tambahan.\nRubrik makalah belum ditetapkan dalam dokumen ini. Gunakan nilai makalah dari dosen atau rubrik makalah resmi bila tersedia; jangan menerapkan rubrik performance enam dimensi pada makalah atau mengarang skor. Semua usulan skor AI memerlukan moderasi dosen.",
     "crumbs": [
       "Beranda",
       "Portfolio Minggu 8 — UTS KIPP"
     ]
   },
   {
-    "objectID": "portfolio/week-08.html#evidence",
-    "href": "portfolio/week-08.html#evidence",
+    "objectID": "portfolio/week-08.html#rekap-nilai-komponen",
+    "href": "portfolio/week-08.html#rekap-nilai-komponen",
     "title": "Portfolio Minggu 8 — UTS KIPP",
-    "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
-    "crumbs": [
-      "Beranda",
-      "Portfolio Minggu 8 — UTS KIPP"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-08.html#analisis-komunikasi",
-    "href": "portfolio/week-08.html#analisis-komunikasi",
-    "title": "Portfolio Minggu 8 — UTS KIPP",
-    "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
-    "crumbs": [
-      "Beranda",
-      "Portfolio Minggu 8 — UTS KIPP"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-08.html#penggunaan-ai",
-    "href": "portfolio/week-08.html#penggunaan-ai",
-    "title": "Portfolio Minggu 8 — UTS KIPP",
-    "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
-    "crumbs": [
-      "Beranda",
-      "Portfolio Minggu 8 — UTS KIPP"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-08.html#feedback-dan-tindak-lanjut",
-    "href": "portfolio/week-08.html#feedback-dan-tindak-lanjut",
-    "title": "Portfolio Minggu 8 — UTS KIPP",
-    "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
-    "crumbs": [
-      "Beranda",
-      "Portfolio Minggu 8 — UTS KIPP"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-08.html#self-assessment",
-    "href": "portfolio/week-08.html#self-assessment",
-    "title": "Portfolio Minggu 8 — UTS KIPP",
-    "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "section": "Rekap nilai komponen",
+    "text": "Rekap nilai komponen\n\n\n\n\n\n\n\n\n\n\n\nKomponen\nBobot\nSelf-assessment /100\nUsulan AI /100\nNilai resmi dosen /100\nStatus bukti\n\n\n\n\nMakalah\n10%\n—\n—\n—\nBelum dinilai\n\n\nSesi 1\n18%\n—\n—\n—\nBelum dinilai\n\n\nSesi 2a\n18%\n—\n—\n—\nBelum dinilai\n\n\nSesi 2b\n18%\n—\n—\n—\nBelum dinilai\n\n\nSesi 3a\n18%\n—\n—\n—\nBelum dinilai\n\n\nSesi 3b\n18%\n—\n—\n—\nBelum dinilai\n\n\n\nNilai akhir UTS resmi: Belum dihitung. Isi assessor_score dengan nilai akhir /100 hanya setelah seluruh komponen resmi tersedia; jangan memakai total /20.",
     "crumbs": [
       "Beranda",
       "Portfolio Minggu 8 — UTS KIPP"

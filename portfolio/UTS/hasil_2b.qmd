@@ -1,9 +1,10 @@
+
 ---
 title: "Laporan UTS KIPP - Sesi 2b"
 subtitle: "Persahabatan dan profesionalitas - target kedua"
-author: "[Nama mahasiswa]"
+author: "Naufal Rasya - 18225113"
 lang: id
-status: "Belum dimulai"
+status: "Siap dinilai"
 format:
   html:
     toc: true
@@ -11,154 +12,175 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 2b](../../examples/UTS/hasil_2b.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
-:::
-
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
+| Nama mahasiswa | Naufal Rasya |
+| NIM | 18225113 |
+| Kelas | K01 |
+| Tanggal pelaksanaan | Belum diverifikasi dari riwayat sesi |
 | Nomor/judul kasus | Sesi 2b: Persahabatan dan profesionalitas - target kedua |
-| Target | [Nama dan ID target kedua sesuai ZIP 2b; berbeda dari 2a] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Target | Ali (K2-01) |
+| Versi bank/paket | Belum diverifikasi dari ZIP aktif |
+| Sumber penugasan | `kasus_2b_18225113.zip`; `PENUGASAN.md` perlu diperiksa |
+| Modalitas | Teks/chat |
+| Konteks nyata/fiktif | Simulasi percakapan mengenai tugas kelompok dan tanggung jawab individu |
+| Kelengkapan transkrip | Parsial; ringkasan percakapan tersedia, tetapi transkrip verbatim lengkap belum tersedia |
+| Nama laporan menurut paket | `hasil_2b.qmd`; verifikasi dengan `PENUGASAN.md` |
+| Konfirmasi identitas/ringkasan | ID giliran konfirmasi belum tersedia dalam ringkasan |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
+Kasus ini membahas Ali (K2-01), yang menghadapi tugas kelompok dengan sejumlah pertanyaan utama. Dalam percakapan, Ali menyampaikan bahwa bagian tugasnya terasa lebih sulit daripada perkiraan dan pembagian tugas terasa kurang adil.
+
+Saya mencoba menjelaskan bahwa tingkat kesulitan tugas setiap anggota belum tentu sama sehingga pembagian perlu dipahami lebih dahulu sebelum menyimpulkan bahwa pembagian tersebut tidak adil. Saya juga menyarankan agar Ali mencoba mengerjakan bagian yang menjadi tanggung jawabnya dan mendiskusikan kesulitan yang masih ada dengan kelompok. Saya bersedia membantu, tetapi tidak bermaksud mengambil alih seluruh tugasnya.
+
+Pada evaluasi berikutnya, Ali dilaporkan sudah mencoba mengerjakan bagian dasar, tetapi masih mengalami kesulitan pada salah satu subbagian. Ali juga khawatir akan membebani anggota kelompok jika meminta bantuan. Saya kemudian menekankan bahwa meminta bantuan merupakan bagian dari kerja kelompok, serta menyarankan sumber belajar seperti internet, AI, artikel, dosen, atau asisten dosen. Sumber yang digunakan tetap perlu diperiksa relevansinya.
 
 | Unsur | Isi |
 |---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+| Tujuan komunikasi/tindakan | Membantu Ali mengatasi kesulitan tugas sambil mempertahankan tanggung jawab individu dan kerja sama kelompok. |
+| Keadaan awal | Ali merasa bagian tugas lebih sulit daripada perkiraan dan mempertanyakan keadilan pembagian tugas. |
+| Indikator keberhasilan | Ali dapat menjelaskan bagian yang belum dipahami, mencoba langkah awal, meminta bantuan secara spesifik, dan menentukan langkah berikutnya. |
+| Batas dan pilihan target | Saya menawarkan bantuan tanpa mengambil alih seluruh tugas Ali. Keputusan dan usaha mengerjakan tugas tetap menjadi tanggung jawab Ali. |
+| Tenggat | Tugas kelompok memiliki tenggat; tanggal dan jam aktual perlu diverifikasi dari sumber sesi. |
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
+Bagian ini membahas diri saya sebagai mahasiswa yang menjalankan simulasi, bukan profil Ali.
 
 | Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| Persepsi/SWOT subjektif | Saya melihat persoalan sebagai gabungan antara kesulitan akademik, persepsi ketidakadilan, dan kekhawatiran membebani teman. | Ringkasan percakapan; ID belum tersedia. | Interpretasi berdasarkan ringkasan, bukan pengukuran objektif. |
+| Attitude | Saya berusaha membantu tanpa menghilangkan tanggung jawab Ali atas tugasnya. | Ringkasan pendekatan komunikasi. | Sikap yang dilaporkan; konsistensi perlu diperiksa melalui transkrip. |
+| Knowledge | Saya memahami bahwa anggota kelompok tetap memiliki tanggung jawab individu, tetapi juga dapat saling membantu ketika menghadapi kendala. | Ringkasan refleksi. | Pemahaman umum; penerapan efektif belum dapat dinilai sepenuhnya. |
+| Skill | Saya mencoba menggali masalah, memberi saran, dan mendorong Ali meminta bantuan secara spesifik. | Ringkasan percakapan. | Kualitas keterampilan perlu dinilai dari pertanyaan dan respons aktual. |
+| Preferensi/MBTI jika dilaporkan | Belum ada laporan preferensi MBTI diri yang dapat diverifikasi. | Tidak tersedia. | Tidak menyimpulkan tipe kepribadian dari percakapan. |
+| Peran, karakter, kultur/ko-kultur | Konteksnya adalah mahasiswa yang bekerja dalam kelompok akademik dan menjaga hubungan pertemanan. | Konteks kasus. | Tidak cukup bukti untuk membuat generalisasi tentang karakter atau budaya individu. |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
+Dugaan awal perlu dibedakan dari informasi yang baru diketahui setelah percakapan berlangsung. Informasi yang tersedia menunjukkan bahwa Ali merasa tugasnya lebih sulit daripada perkiraan dan khawatir meminta bantuan akan membebani anggota lain. Penyebab kesulitan spesifik perlu diklarifikasi sebelum memilih solusi.
 
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Membantu Ali menghadapi kesulitan tugas dan menjaga tanggung jawab individu. | Sikap terbuka terhadap bantuan, pengetahuan mengenai sumber belajar, dan keterampilan menjelaskan kendala. | Mengklarifikasi bagian yang sulit dan tujuan Ali. | Ali dapat menjelaskan kendala secara spesifik. |
+| Attention | Perhatian diarahkan pada tingkat kesulitan tugas dan persepsi ketidakadilan. | Mendengarkan dan membedakan fakta dari dugaan. | Pertanyaan terbuka dan klarifikasi. | Masalah utama dapat diidentifikasi. |
+| Interest | Menggali subbagian yang sulit dan alasan Ali ragu meminta bantuan. | Menunjukkan relevansi bantuan dengan penyelesaian tugas. | Menanyakan apa yang sudah dicoba dan bagian mana yang masih buntu. | Kebutuhan bantuan menjadi lebih jelas. |
+| Desire | Mendorong Ali mempertimbangkan bantuan tanpa merasa bahwa ia melepaskan tanggung jawab. | Menjelaskan bahwa meminta bantuan tidak sama dengan menyerahkan seluruh tugas. | Memberikan pilihan bantuan dan sumber belajar. | Ali bersedia mempertimbangkan langkah yang sesuai. |
+| Action | Menentukan langkah untuk mengatasi subbagian yang belum dipahami. | Melatih pencarian informasi, evaluasi sumber, dan komunikasi dengan anggota kelompok. | Meminta bantuan secara spesifik dan menguji pemahaman. | Ada langkah yang dapat diperiksa; hasil akhir tugas perlu diverifikasi. |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+**Status: transkrip parsial.**
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+Ringkasan percakapan tersedia, tetapi seluruh pesan asli dan ID setiap giliran belum tersedia. Bagian ini tidak menggunakan dialog rekaan sebagai transkrip.
 
-### U001 - Mahasiswa - [Tahap]
+## Ringkasan interaksi yang tersedia
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+1. **Pembahasan tingkat kesulitan dan keadilan.** Ali menyampaikan bahwa tugasnya lebih sulit daripada perkiraan dan pembagian tugas terasa tidak adil. Saya menjelaskan bahwa tingkat kesulitan setiap bagian belum tentu sama dan perlu dipahami sebelum membuat kesimpulan.
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+2. **Dorongan untuk mencoba dan berdiskusi.** Saya menyarankan Ali mencoba mengerjakan tanggung jawabnya dan mendiskusikan masalah yang masih ada dengan kelompok. Saya menawarkan bantuan tanpa mengambil alih seluruh tugas.
 
-[Tempel pesan AI persis seperti sumber.]
+3. **Tanggung jawab dan tenggat.** Saya menekankan pentingnya menyelesaikan bagian masing-masing serta berkolaborasi ketika mengalami kendala. Tanggung jawab individu dan bantuan kelompok perlu berjalan bersama.
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+4. **Evaluasi setelah pengungkapan profil.** Ali dilaporkan telah mencoba mengerjakan bagian dasar, tetapi masih mengalami kesulitan pada salah satu subbagian. Ia juga khawatir meminta bantuan akan membebani teman.
+
+5. **Alternatif bantuan.** Saya menyarankan Ali menjelaskan bagian yang membuatnya buntu dan meminta bantuan secara spesifik. Alternatif sumber belajar yang dibahas mencakup internet, AI, artikel, dosen, dan asisten dosen. Relevansi serta ketepatan informasi tetap perlu diperiksa.
+
+**Catatan:** Tempelkan seluruh pesan mahasiswa dan AI dari riwayat sesi asli di bagian ini. Nomor U001, AI001, dan seterusnya harus mengikuti urutan pesan aktual. Ringkasan di atas bukan pengganti transkrip lengkap.
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
-
 | Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Persepsi/kesimpulan SWOT | Ali merasa tugasnya lebih sulit daripada perkiraan dan mempertanyakan keadilan pembagian. | Pembahasan diarahkan pada identifikasi subbagian yang sulit, komunikasi, dan pilihan sumber bantuan. | Ringkasan percakapan; ID belum tersedia. | Perubahan arah pembahasan; penyelesaian masalah secara menyeluruh belum terverifikasi. |
+| Attitude | Ali khawatir meminta bantuan akan membebani teman. | Saya menekankan bahwa meminta bantuan dapat menjadi bagian dari kerja sama dan tanggung jawab kelompok. | Ringkasan evaluasi. | Pendekatan komunikasi diketahui, tetapi perubahan sikap Ali tidak dapat dipastikan tanpa bukti tambahan. |
+| Knowledge | Ali mengalami kesulitan pada tugas dan belum menemukan penyelesaian untuk satu subbagian. | Alternatif sumber belajar dan pentingnya memeriksa relevansi sumber dibahas. | Ringkasan percakapan. | Informasi dan strategi dibahas; peningkatan pengetahuan belum diuji secara formal. |
+| Skill/kesiapan | Ali dilaporkan telah mencoba bagian dasar, tetapi masih kesulitan pada satu subbagian. | Ali diarahkan untuk menjelaskan kendala secara spesifik dan meminta bantuan. | Ringkasan evaluasi setelah pengungkapan profil. | Ada laporan upaya awal, tetapi kemampuan menyelesaikan subbagian dan transfer keterampilan belum terverifikasi. |
 
 ## Evaluasi stimulus-respons dan diagnosis profil
 
 | Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
+| Keluhan tentang kesulitan | Ringkasan tersedia; ID belum tersedia. | Menjelaskan bahwa tingkat kesulitan tugas anggota dapat berbeda dan perlu dipahami. | Ali menyatakan bahwa tugasnya lebih sulit daripada perkiraan dan terasa tidak adil. | Masalah berkaitan dengan kesulitan tugas sekaligus persepsi pembagian tanggung jawab. | Tanyakan bagian yang sulit dan dasar penilaian bahwa pembagian tidak adil. |
+| Tawaran bantuan | Ringkasan tersedia; ID belum tersedia. | Menawarkan bantuan tanpa mengambil alih seluruh pekerjaan. | Ali bersedia mencoba dan meminta bantuan menurut ringkasan. | Bantuan diposisikan sebagai dukungan, bukan pengganti tanggung jawab individu. | Perjelas bantuan yang dibutuhkan dan langkah yang sudah dicoba. |
+| Evaluasi subbagian sulit | Ringkasan tersedia; ID belum tersedia. | Mendorong Ali menjelaskan bagian yang buntu dan meminta bantuan. | Ali dilaporkan sudah mencoba bagian dasar tetapi masih kesulitan pada satu subbagian. | Kebutuhan bantuan menjadi lebih spesifik. | Pecah masalah menjadi langkah kecil dan periksa pemahaman setelah bantuan diberikan. |
+| Pemilihan sumber | Ringkasan tersedia; ID belum tersedia. | Menyarankan internet, AI, artikel, dosen, atau asisten dosen. | Hasil penggunaan sumber-sumber tersebut belum tersedia. | Membuka pilihan strategi belajar, tetapi kualitas hasil belum diketahui. | Periksa relevansi, ketepatan, dan kesesuaian informasi dengan tugas. |
 
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+Informasi tentang Ali berasal dari konteks tokoh simulasi. Saya tidak menyimpulkan tipe MBTI atau karakter permanennya hanya dari pernyataan bahwa ia khawatir membebani teman.
 
 ## Pengaruh pesan personal dan kualitas relasi
 
 | Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
+| Menanggapi keluhan | Memberi ruang bagi Ali untuk menyampaikan bahwa tugas terasa lebih sulit daripada perkiraan. | Ali menjelaskan kendalanya menurut ringkasan. | Ali menyampaikan masalah; tingkat kepercayaan tidak dapat diukur dari ringkasan saja. | Mendengarkan membantu mengidentifikasi masalah, tetapi belum membuktikan bahwa masalah selesai. |
+| Menawarkan bantuan | Bersedia membantu tanpa mengambil alih seluruh tanggung jawab. | Ali dilaporkan mencoba dan meminta bantuan. | Permintaan bantuan merupakan perilaku yang dilaporkan, tetapi tidak cukup untuk mengukur rasa aman secara menyeluruh. | Bantuan dapat mendukung pembelajaran jika kebutuhan dan batas tanggung jawab diperjelas. |
+| Mengurangi kekhawatiran menjadi beban | Menekankan bahwa anggota kelompok dapat saling membantu. | Respons akhir yang lengkap belum tersedia. | Belum dapat disimpulkan apakah kekhawatiran Ali benar-benar berkurang. | Pesan mendukung kerja sama, tetapi perlu diikuti tindakan dan evaluasi. |
 
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+Saya belajar bahwa menjaga hubungan pertemanan tidak berarti membiarkan teman menghadapi kesulitan sendirian. Namun, bantuan juga tidak berarti mengambil alih tugasnya. Pendekatan yang lebih baik adalah mendengarkan kendala, membantu mengidentifikasi bagian yang belum dipahami, dan mendukung usaha penyelesaian secara bertahap.
 
 ## Uji ulang dan pembelajaran
 
 | Unsur | Bukti/uraian |
 |---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
+| Kendala baru atau peristiwa sejenis | Ali dilaporkan mencoba bagian dasar, tetapi masih kesulitan pada satu subbagian dan khawatir meminta bantuan akan membebani teman. |
+| Respons awal dibanding uji ulang | Terdapat ringkasan upaya setelah pengungkapan profil, tetapi transkrip lengkap dan hasil akhir tugas belum tersedia untuk perbandingan terperinci. |
+| Revisi rencana/dukungan | Meminta Ali menjelaskan bagian yang buntu, menyebutkan usaha yang sudah dilakukan, dan meminta bantuan secara spesifik. |
+| Indikator perbaikan | Ali dapat menunjukkan bagian yang belum dipahami, menjelaskan langkah yang sudah dicoba, menggunakan sumber yang relevan, dan menerapkan hasil bantuan. |
+| Transfer dan keterbatasan | Strategi dapat dicoba pada tugas kelompok lain. Keberhasilan menyelesaikan subbagian dan penerapan dalam situasi lain belum terverifikasi. |
 
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+Uji ulang perlu dibedakan dari sekadar kesediaan mencoba. Bukti yang lebih kuat adalah demonstrasi bahwa Ali dapat menjelaskan atau menyelesaikan bagian yang sebelumnya sulit dengan pemahamannya sendiri.
 
 ## Penilaian enam dimensi
 
 | Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | BT | Ringkasan kasus; ID belum tersedia. | Tujuan umum dapat diidentifikasi, tetapi transkrip lengkap belum tersedia. |
+| Persepsi dan validasi profil/status | BT | Ringkasan eksplorasi kesulitan dan kekhawatiran. | Ada upaya memahami masalah, tetapi validasi profil secara lengkap belum dapat dinilai. |
+| Pemilihan dan urutan repertoar | BT | Ringkasan klarifikasi, penawaran bantuan, dan saran sumber belajar. | Strategi diketahui secara umum; urutan pesan aktual perlu diperiksa. |
+| Eksekusi jelas, peduli dan konsisten | BT | Ringkasan pendekatan komunikasi. | Bukti verbatim diperlukan untuk menilai kualitas pelaksanaan. |
+| Evaluasi dan adaptasi | BT | Ringkasan evaluasi setelah pengungkapan profil. | Ada informasi mengenai kendala lanjutan, tetapi hasil akhir dan demonstrasi skill belum terverifikasi. |
+| Refleksi dan lesson learned | BT | Ringkasan refleksi mahasiswa. | Refleksi tersedia, tetapi perlu dicocokkan dengan transkrip dan indikator resmi. |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+**Nilai sesi:** Belum dihitung. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Penilaian diri, usulan AI, dan nilai resmi dosen harus dibedakan.
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+- **Dugaan yang dikoreksi:** Meminta bantuan tidak otomatis berarti menjadi beban kelompok. Pada saat yang sama, bantuan tidak menghilangkan tanggung jawab individu untuk memahami dan mengerjakan tugasnya.
+- **Stimulus efektif/tidak efektif:** Menawarkan bantuan dan menyarankan sumber belajar memberikan beberapa pilihan. Namun, saya perlu menggali subbagian yang sulit secara lebih spesifik agar saran tidak terlalu umum.
+- **Pertumbuhan PASK/ASK diri:** Saya memahami pentingnya menyeimbangkan kepedulian terhadap teman dengan tanggung jawab akademik. Keterampilan memahami kendala orang lain dan mengelola kerja tim masih perlu dilatih. Perubahan kemampuan nyata belum dapat disimpulkan tanpa uji ulang yang lengkap.
+- **Relasi:** Menawarkan bantuan tanpa mengambil alih dapat mendukung kemandirian. Saya perlu memeriksa apakah cara penyampaian saya membuat Ali merasa didukung, bukan dihakimi. Bukti tentang perasaan Ali masih terbatas.
+- **Preferensi, peran, budaya:** Hubungan pertemanan dan tanggung jawab kelompok merupakan konteks penting. Saya tidak menggeneralisasi kepribadian Ali dari kekhawatirannya meminta bantuan.
+- **Pelajaran untuk situasi berikutnya:** Saya akan bertanya apa yang sudah dicoba, bagian mana yang belum dipahami, dan bentuk bantuan apa yang dibutuhkan. Setelah memberikan bantuan, saya akan memeriksa apakah orang tersebut dapat menerapkan pemahamannya secara mandiri.
 
 ## Tindak lanjut dan batas bukti
 
 | Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+| Mengidentifikasi subbagian yang belum dipahami | Ali | Sesegera mungkin sebelum tenggat | Instruksi dan materi tugas | Subbagian dan kendala dapat dijelaskan secara spesifik | Usulan |
+| Mencatat langkah yang sudah dicoba | Ali | Sebelum meminta bantuan | Catatan pengerjaan | Upaya awal dan titik kesulitan dapat ditunjukkan | Usulan |
+| Meminta bantuan secara spesifik | Ali dan anggota kelompok | Sebelum tenggat | Diskusi kelompok atau komunikasi langsung | Pertanyaan jelas dan bantuan sesuai kebutuhan | Usulan |
+| Memeriksa sumber belajar | Ali | Saat mencari solusi | Internet, AI, artikel, dosen, atau asisten dosen | Informasi relevan dan dapat dijelaskan kembali | Usulan |
+| Memeriksa pemahaman setelah bantuan | Ali | Setelah mendapat bantuan | Latihan pada subbagian terkait | Ali mampu menerapkan konsep tanpa sekadar menyalin jawaban | Usulan |
+| Mengevaluasi kualitas bantuan | Saya | Setelah proses selesai | Refleksi dan umpan balik | Dapat menjelaskan apa yang membantu dan apa yang perlu diperbaiki | Rencana refleksi |
 
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
+Batas bukti laporan ini meliputi transkrip yang belum lengkap, ID giliran yang belum terverifikasi, dan hasil akhir tugas yang belum tersedia. Rencana tindak lanjut tidak boleh dianggap sebagai tindakan yang sudah terlaksana. Tanggal, versi paket, dan nama berkas final perlu dicocokkan dengan ZIP aktif.
 
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+**Konfirmasi akhir:** Identitas mahasiswa dicantumkan pada laporan. ID giliran konfirmasi dan koreksi akhir terhadap ringkasan perlu dilengkapi dari riwayat percakapan asli sebelum laporan dinyatakan lengkap.
 
 {{< include "../../includes/uts-penilaian.md" >}}
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

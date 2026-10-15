@@ -165,3 +165,12 @@ Batas bukti laporan ini mencakup transkrip yang masih parsial, tidak tersedianya
 **Konfirmasi akhir:** Identitas mahasiswa tercatat telah dikonfirmasi. ID giliran konfirmasi, teks transkrip lengkap, serta konfirmasi akhir atas ringkasan hasil perlu ditambahkan dari sumber percakapan asli sebelum laporan dinyatakan lengkap.
 
 {{< include "../../includes/uts-penilaian.md" >}}
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

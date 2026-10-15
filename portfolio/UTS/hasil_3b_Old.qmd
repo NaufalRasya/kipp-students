@@ -1,9 +1,10 @@
+
 ---
 title: "Laporan UTS KIPP - Sesi 3b"
 subtitle: "Menawarkan solusi TI dan AI - target kedua"
-author: "[Nama mahasiswa]"
+author: "Naufal Rasya - 18225113"
 lang: id
-status: "Belum dimulai"
+status: "Siap dinilai"
 format:
   html:
     toc: true
@@ -11,154 +12,180 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 3b](../../examples/UTS/hasil_3b.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
-:::
-
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
+| Nama mahasiswa | Naufal Rasya |
+| NIM | 18225113 |
+| Kelas | K01 |
+| Tanggal pelaksanaan | Belum diverifikasi dari riwayat sesi |
 | Nomor/judul kasus | Sesi 3b: Menawarkan solusi TI dan AI - target kedua |
-| Target | [Nama dan ID customer sesuai ZIP 3b; berbeda dari 3a] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Target | Budi (K3-02) |
+| Versi bank/paket | Belum diverifikasi dari ZIP aktif |
+| Sumber penugasan | `kasus_3b_18225113.zip`; `PENUGASAN.md` perlu diperiksa |
+| Modalitas | Teks/chat |
+| Konteks nyata/fiktif | Simulasi konsultasi perubahan proses kerja dengan dukungan TI dan AI |
+| Kelengkapan transkrip | Parsial; ringkasan percakapan tersedia, tetapi transkrip verbatim lengkap belum tersedia |
+| Nama laporan menurut paket | `hasil_3b.qmd`; verifikasi dengan `PENUGASAN.md` |
+| Konfirmasi identitas/ringkasan | ID giliran konfirmasi belum tersedia dalam ringkasan |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
+Kasus ini membahas Budi (K3-02), yang merasa nyaman dengan proses kerja yang sudah biasa digunakan dan memiliki kekhawatiran terhadap perubahan. Hal yang perlu dipertimbangkan mencakup biaya, waktu, dan kemampuan staf beradaptasi jika perusahaan mulai menggunakan AI.
+
+Dalam percakapan, saya mencoba menggali apakah proses yang berjalan saat ini sudah cukup jelas dan sesuai kebutuhan. Saya menyarankan agar perusahaan mempertimbangkan kondisi pasar dan pesaing, sekaligus melihat AI sebagai alat bantu untuk menangani pertanyaan yang berada di luar kemampuan atau pengetahuan staf pada saat tertentu.
+
+Saya juga membahas pentingnya memberikan konteks perusahaan kepada AI, memeriksa informasi produk, melatih staf, dan melakukan simulasi pertanyaan pelanggan. Untuk mengevaluasi manfaat solusi, saya mengusulkan pengamatan terhadap waktu respons, frekuensi pertanyaan berulang, dan akurasi jawaban. Saya juga mengusulkan evaluasi kemampuan staf dengan dan tanpa bantuan AI.
+
+Pendekatan yang ingin dikembangkan adalah perubahan secara bertahap, dengan pengujian terbatas dan pelatihan yang mempertimbangkan waktu serta kesiapan staf. Rencana tersebut masih perlu dibedakan dari implementasi yang benar-benar sudah dilakukan.
 
 | Unsur | Isi |
 |---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+| Tujuan komunikasi/tindakan | Membantu Budi mempertimbangkan penggunaan AI secara bertahap berdasarkan kebutuhan, biaya, kesiapan staf, dan hasil pengujian. |
+| Keadaan awal | Budi diringkas sebagai pihak yang nyaman dengan proses saat ini dan khawatir terhadap biaya, waktu, serta adaptasi staf. |
+| Indikator keberhasilan | Ada masalah yang teridentifikasi, uji coba terbatas, pemeriksaan akurasi, serta perbandingan waktu respons dan frekuensi pertanyaan berulang. |
+| Batas dan pilihan target | Budi tidak dipaksa langsung mengubah seluruh proses. Keputusan perlu mempertimbangkan kebutuhan bisnis, sumber daya, dan kesiapan staf. |
+| Tenggat | Belum tercatat secara spesifik dalam bahan yang tersedia. |
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
+Bagian ini membahas diri saya sebagai mahasiswa yang menjalankan simulasi konsultasi.
 
 | Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| Persepsi/SWOT subjektif | Saya melihat AI sebagai peluang memperbaiki layanan, tetapi perubahan proses dapat menghadapi kendala biaya, waktu, dan adaptasi staf. | Ringkasan percakapan; ID belum tersedia. | Interpretasi berdasarkan ringkasan, bukan pengukuran objektif. |
+| Attitude | Saya berusaha menawarkan perubahan secara bertahap tanpa mengabaikan kekhawatiran pihak yang menjalankan proses. | Ringkasan pendekatan komunikasi. | Sikap yang dilaporkan; konsistensi perlu diperiksa melalui transkrip. |
+| Knowledge | Saya memahami perlunya menghubungkan solusi dengan proses kerja, kebutuhan pelanggan, akurasi informasi, dan kesiapan staf. | Ringkasan percakapan dan refleksi. | Pemahaman umum; belum membuktikan kemampuan implementasi teknis secara langsung. |
+| Skill | Saya mencoba menggali masalah, menawarkan simulasi, dan menyusun indikator evaluasi. Saya masih perlu memperbaiki kejelasan dan fokus jawaban. | Ringkasan refleksi diri. | Penilaian diri; perlu dibandingkan dengan pesan aktual. |
+| Preferensi/MBTI jika dilaporkan | Belum ada laporan preferensi MBTI diri yang dapat diverifikasi. | Tidak tersedia. | Tidak menyimpulkan tipe kepribadian dari percakapan. |
+| Peran, karakter, kultur/ko-kultur | Konteksnya adalah konsultasi perubahan proses kerja dalam perusahaan yang melibatkan staf dan layanan pelanggan. | Konteks kasus. | Tidak cukup bukti untuk menggeneralisasi karakter atau budaya individu. |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
+Informasi yang tersedia menggambarkan Budi sebagai pihak yang nyaman dengan proses saat ini dan khawatir terhadap biaya, waktu, serta adaptasi staf. Karena catatan dugaan awal sebelum profil lengkap tidak tersedia, tabel berikut merupakan rekonstruksi rencana analisis, bukan bukti bahwa semua tahap telah dilakukan dalam urutan tersebut.
 
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Membantu Budi menilai apakah AI layak diuji pada proses layanan tertentu. | Sikap terbuka terhadap evaluasi, pengetahuan mengenai AI, dan keterampilan menilai hasil uji. | Mengklarifikasi proses kerja dan kekhawatiran Budi. | Kebutuhan dan kendala dapat dijelaskan. |
+| Attention | Perhatian diarahkan pada proses saat ini dan masalah layanan yang mungkin belum terselesaikan. | Memahami kondisi operasional. | Pertanyaan terbuka mengenai kendala dan kebutuhan. | Masalah yang ingin diperbaiki teridentifikasi. |
+| Interest | Menjelajahi kemungkinan manfaat AI tanpa mengabaikan risiko perubahan. | Pengetahuan mengenai batas AI dan biaya adaptasi. | Membandingkan proses saat ini dengan alternatif uji coba. | Ada alasan yang jelas untuk mempertimbangkan pengujian. |
+| Desire | Membantu Budi mempertimbangkan perubahan dengan risiko yang terkendali. | Sikap kritis dan keterampilan mengevaluasi alternatif. | Menawarkan simulasi serta uji coba terbatas. | Kriteria keputusan dan kebutuhan dukungan dirumuskan. |
+| Action | Merencanakan pengujian dan pelatihan secara bertahap. | Keterampilan menguji jawaban dan mengukur hasil. | Simulasi pelanggan, pelatihan staf, dan evaluasi indikator. | Rencana uji coba yang dapat diperiksa; implementasi nyata belum terverifikasi. |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+**Status: transkrip parsial.**
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+Ringkasan percakapan tersedia, tetapi seluruh pesan asli dan ID setiap giliran belum tersedia. Bagian ini tidak menggunakan dialog rekaan sebagai transkrip.
 
-### U001 - Mahasiswa - [Tahap]
+## Ringkasan interaksi yang tersedia
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+1. **Menggali proses kerja saat ini.** Saya mencoba menanyakan apakah Budi yakin proses yang selama ini digunakan sudah cukup jelas dan sesuai kebutuhan. Tujuannya adalah memahami kondisi saat ini sebelum menyarankan perubahan.
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+2. **Mempertimbangkan kebutuhan bisnis.** Saya menyarankan agar perusahaan memperhatikan kondisi pasar dan pesaing. Pembahasan ini digunakan untuk mempertimbangkan apakah proses yang berjalan masih memenuhi kebutuhan pelanggan.
 
-[Tempel pesan AI persis seperti sumber.]
+3. **AI sebagai alat bantu.** Saya mengusulkan AI untuk membantu menjawab pertanyaan yang berada di luar pengetahuan staf pada saat tertentu, tanpa menjadikan AI sebagai pengganti seluruh peran staf.
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+4. **Konteks dan validasi informasi.** Saya menekankan pentingnya memberikan konteks perusahaan kepada AI, memeriksa informasi produk, dan tidak menganggap semua jawaban AI benar secara otomatis.
+
+5. **Pelatihan dan simulasi.** Saya mengusulkan pelatihan staf, pertemuan, serta simulasi pertanyaan pelanggan. Indikator yang dibahas mencakup waktu respons, frekuensi pertanyaan berulang, dan akurasi jawaban.
+
+6. **Evaluasi bertahap.** Saya mengusulkan evaluasi kemampuan staf dengan dan tanpa bantuan AI serta pelaksanaan latihan secara bertahap sesuai waktu yang tersedia. Hasil pelaksanaan aktual belum terverifikasi dari ringkasan yang tersedia.
+
+**Catatan:** Tempelkan seluruh pesan mahasiswa dan AI dari riwayat sesi asli di bagian ini. Nomor U001, AI001, dan seterusnya harus mengikuti urutan pesan aktual. Ringkasan di atas bukan pengganti transkrip lengkap.
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
-
 | Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Persepsi/kesimpulan SWOT | Budi diringkas nyaman dengan proses saat ini dan khawatir terhadap biaya, waktu, serta adaptasi staf. | Pembahasan diarahkan pada uji coba bertahap, pelatihan, dan pengukuran hasil. | Ringkasan percakapan; ID belum tersedia. | Perluasan pilihan yang dibahas; belum membuktikan bahwa Budi menyetujui atau menerapkan perubahan. |
+| Attitude | Perubahan perlu mempertimbangkan kekhawatiran terhadap proses dan kesiapan staf. | Saya menekankan pengujian bertahap dan evaluasi sebelum penerapan lebih luas. | Ringkasan pendekatan komunikasi. | Sikap yang dirumuskan; penerapan nyata belum terverifikasi. |
+| Knowledge | Perlu memahami manfaat dan kendala sebelum memilih solusi. | Pembahasan mencakup konteks AI, akurasi, pelatihan, serta indikator evaluasi. | Ringkasan percakapan. | Pengetahuan yang dibahas; pemahaman teknis belum diuji secara formal. |
+| Skill/kesiapan | Saya perlu menggali kebutuhan dan kekhawatiran sebelum menawarkan solusi. | Saya mengusulkan simulasi dan pengukuran hasil. | Ringkasan percakapan dan refleksi. | Usulan rencana; keterampilan implementasi dan hasil uji belum terverifikasi. |
 
 ## Evaluasi stimulus-respons dan diagnosis profil
 
 | Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
+| Proses kerja saat ini | Ringkasan tersedia; ID belum tersedia. | Menanyakan apakah proses saat ini sudah cukup jelas. | Budi diringkas nyaman dengan proses yang sudah biasa digunakan. | Mengarahkan pembahasan pada kondisi awal sebelum perubahan. | Tanyakan masalah yang masih muncul, bukan mengasumsikan proses lama pasti buruk. |
+| Kekhawatiran perubahan | Ringkasan profil menyebut biaya, waktu, dan adaptasi staf sebagai kekhawatiran. | Menawarkan pertimbangan penggunaan AI dan evaluasi kondisi bisnis. | Respons verbatim belum tersedia. | Mengidentifikasi kendala yang perlu dipertimbangkan sebelum penerapan. | Hubungkan setiap kekhawatiran dengan langkah mitigasi yang konkret. |
+| AI dan akurasi | Ringkasan tersedia; ID belum tersedia. | Menyarankan konteks perusahaan, pemeriksaan informasi produk, dan penggunaan AI sebagai alat bantu. | Hasil penerimaan atau pengujian belum tersedia. | Menekankan kebutuhan validasi dan batas penggunaan AI. | Siapkan pertanyaan uji dan sumber informasi perusahaan yang dapat dijadikan pembanding. |
+| Pelatihan dan pengukuran | Ringkasan tersedia; ID belum tersedia. | Mengusulkan pelatihan, simulasi, dan indikator evaluasi. | Hasil pelaksanaan belum terverifikasi. | Mengarahkan perubahan menuju eksperimen yang dapat dievaluasi. | Mulai dari lingkup kecil dan bandingkan hasil dengan kondisi awal. |
 
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+Profil Budi merupakan konteks tokoh simulasi. Saya tidak menetapkan tipe MBTI atau karakter permanennya hanya dari kenyamanan terhadap proses lama atau kekhawatiran mengenai perubahan. Jika dugaan awal sebelum profil lengkap tidak terdokumentasi, keterbatasan tersebut perlu dipertahankan.
 
 ## Pengaruh pesan personal dan kualitas relasi
 
 | Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
+| Pembahasan proses saat ini | Mengajak Budi meninjau proses yang sudah digunakan. | Respons spesifik belum tersedia dalam ringkasan. | Belum cukup bukti untuk menilai perubahan keterbukaan. | Pertanyaan dapat membantu memahami kondisi awal, tetapi tidak membuktikan bahwa proses lama bermasalah. |
+| Kekhawatiran perubahan | Mengusulkan pendekatan bertahap dan mempertimbangkan biaya serta kesiapan staf. | Respons akhir Budi belum tersedia secara lengkap. | Belum dapat disimpulkan apakah kekhawatiran berkurang. | Mengakui kendala dapat membuat usulan lebih relevan, tetapi penerimaan solusi harus dikonfirmasi. |
+| Pelatihan dan simulasi | Mengusulkan latihan dan evaluasi untuk mendukung adaptasi staf. | Pelaksanaan dan respons staf belum terverifikasi. | Dampak terhadap rasa aman staf belum diamati. | Dukungan perlu dievaluasi melalui kesiapan staf dan hasil pengujian, bukan diasumsikan dari rencana. |
 
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+Saya belajar bahwa menawarkan teknologi bukan hanya menjelaskan manfaatnya. Saya juga perlu memahami mengapa seseorang mempertahankan proses lama, mengakui kendala yang dirasakan, dan memberikan pilihan yang dapat diuji tanpa memaksa perubahan sekaligus.
 
 ## Uji ulang dan pembelajaran
 
 | Unsur | Bukti/uraian |
 |---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
+| Kendala baru atau peristiwa sejenis | Ringkasan menunjukkan kekhawatiran mengenai biaya, waktu, dan adaptasi staf. Detail peristiwa uji ulang aktual belum tersedia. |
+| Respons awal dibanding uji ulang | Belum dapat dibandingkan secara sahih karena transkrip lengkap dan hasil uji ulang belum tersedia. |
+| Revisi rencana/dukungan | Mengusulkan uji coba pada lingkup kecil, pelatihan bertahap, pemeriksaan akurasi, dan evaluasi sebelum penerapan lebih luas. |
+| Indikator perbaikan | Waktu respons, frekuensi pertanyaan berulang, akurasi jawaban, dan kemampuan staf menangani pertanyaan dengan serta tanpa bantuan AI. |
+| Transfer dan keterbatasan | Pendekatan dapat dipertimbangkan untuk proses kerja lain, tetapi manfaat aktual dan transfer keterampilan belum terverifikasi. |
 
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+Evaluasi perlu membandingkan kondisi awal dan hasil uji secara adil. Jika waktu respons menurun tetapi akurasi ikut menurun, hasil tersebut tidak dapat langsung dianggap sebagai keberhasilan. Demikian pula, hasil simulasi tidak otomatis membuktikan keberhasilan penerapan dalam operasi nyata.
 
 ## Penilaian enam dimensi
 
 | Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | BT | Ringkasan kasus; ID belum tersedia. | Tujuan umum diketahui, tetapi kebutuhan awal perlu dicocokkan dengan transkrip lengkap. |
+| Persepsi dan validasi profil/status | BT | Ringkasan proses kerja dan kekhawatiran Budi. | Ada upaya mempertimbangkan konteks, tetapi proses validasi lengkap belum dapat dinilai. |
+| Pemilihan dan urutan repertoar | BT | Ringkasan pembahasan AI, pelatihan, dan evaluasi. | Strategi diketahui secara umum; urutan pesan aktual perlu diperiksa. |
+| Eksekusi jelas, peduli dan konsisten | BT | Ringkasan pendekatan komunikasi. | Bukti verbatim diperlukan untuk menilai kejelasan dan konsistensi pelaksanaan. |
+| Evaluasi dan adaptasi | BT | Ringkasan indikator dan rencana uji coba. | Rencana evaluasi tersedia, tetapi hasil pelaksanaan belum terverifikasi. |
+| Refleksi dan lesson learned | BT | Ringkasan refleksi mahasiswa. | Refleksi tersedia, tetapi perlu dicocokkan dengan transkrip dan indikator resmi. |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+**Nilai sesi:** Belum dihitung. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Penilaian diri, usulan AI, dan nilai resmi dosen harus dibedakan.
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+- **Dugaan yang dikoreksi:** Penolakan atau keraguan terhadap perubahan tidak otomatis berarti seseorang tidak mau berkembang. Kekhawatiran mengenai biaya, waktu, dan adaptasi staf perlu dipahami sebelum solusi ditawarkan.
+- **Stimulus efektif/tidak efektif:** Mengusulkan uji coba bertahap dan indikator evaluasi membuat solusi lebih konkret. Namun, saya perlu menggali proses kerja dan kendala Budi lebih sistematis agar jawaban tidak berputar-putar atau terlalu cepat beralih ke solusi.
+- **Pertumbuhan PASK/ASK diri:** Saya menyadari pentingnya sikap terbuka terhadap kekhawatiran target, pengetahuan mengenai batas AI, dan keterampilan menyusun pengujian yang terukur. Peningkatan kemampuan implementasi belum dapat disimpulkan tanpa demonstrasi atau hasil uji.
+- **Relasi:** Mengakui kekhawatiran mengenai biaya dan adaptasi dapat membantu menjaga komunikasi tetap menghormati pihak yang menjalankan proses. Namun, saya belum memiliki bukti cukup untuk menyimpulkan bahwa kepercayaan atau penerimaan Budi benar-benar meningkat.
+- **Preferensi, peran, budaya:** Konteks perusahaan melibatkan proses kerja, staf, dan pelanggan. Saya perlu menghindari generalisasi bahwa semua orang yang nyaman dengan proses lama pasti menolak inovasi.
+- **Pelajaran untuk situasi berikutnya:** Saya akan mengklarifikasi proses saat ini, mengidentifikasi kendala, menyepakati indikator keberhasilan, menawarkan uji coba kecil, dan mengevaluasi hasil sebelum merekomendasikan perubahan yang lebih luas.
 
 ## Tindak lanjut dan batas bukti
 
 | Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+| Memetakan proses layanan saat ini | Budi/perusahaan | Sebelum uji coba | Alur kerja dan catatan pertanyaan pelanggan | Kendala dan kebutuhan dapat dijelaskan | Usulan |
+| Menentukan lingkup uji coba | Budi/perusahaan | Setelah kebutuhan teridentifikasi | Daftar tugas yang sesuai untuk AI | Ruang lingkup, batas, dan tanggung jawab jelas | Usulan |
+| Menyiapkan skenario pertanyaan pelanggan | Tim terkait | Sebelum simulasi | Informasi produk dan kebijakan perusahaan | Skenario relevan dengan kebutuhan layanan | Usulan |
+| Melakukan simulasi dan memeriksa akurasi | Staf yang ditunjuk | Selama uji coba | Sumber informasi resmi | Jawaban AI dapat dibandingkan dengan informasi yang benar | Usulan |
+| Melatih staf secara bertahap | Tim terkait | Sesuai waktu yang tersedia | Panduan dan latihan | Staf dapat menggunakan bantuan AI dan mengetahui kapan harus melakukan eskalasi | Usulan |
+| Membandingkan hasil dengan kondisi awal | Budi/perusahaan | Setelah uji coba | Catatan waktu respons, akurasi, dan frekuensi pertanyaan | Hasil dibandingkan dengan indikator awal | Usulan |
+| Merefleksikan kualitas konsultasi | Saya | Setelah sesi | Transkrip dan umpan balik | Dapat mengidentifikasi bagian komunikasi yang efektif dan perlu diperbaiki | Rencana refleksi |
 
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
+Batas bukti laporan ini meliputi transkrip yang belum lengkap, ID giliran yang belum terverifikasi, serta tidak tersedianya hasil implementasi yang dapat diperiksa. Semua tindakan yang berstatus usulan belum boleh dianggap telah dilaksanakan. Tanggal, versi paket, dan nama berkas final perlu dicocokkan dengan ZIP aktif.
 
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+**Konfirmasi akhir:** Identitas mahasiswa dicantumkan pada laporan. ID giliran konfirmasi dan koreksi akhir terhadap ringkasan perlu dilengkapi dari riwayat percakapan asli sebelum laporan dinyatakan lengkap.
 
 {{< include "../../includes/uts-penilaian.md" >}}
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

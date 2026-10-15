@@ -78,5 +78,14 @@ AI digunakan sebagai lawan bicara simulasi dan membantu penyusunan dokumentasi. 
 | Response & Adaptation | 3 | Saya menyesuaikan solusi dengan konteks, tetapi langkah awal belum selalu konkret. |
 | Agreement, Action & Relationship | 3 | Saya mendorong tanggung jawab dan kerja sama, tetapi tindak lanjut perlu lebih terukur. |
 
-**Total: 15/20 — penilaian mandiri sementara.**
+**Total: 15/20**
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::
 

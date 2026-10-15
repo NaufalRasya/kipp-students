@@ -176,3 +176,12 @@ Keempat, SWOT-like dapat membantu memetakan faktor internal dan eksternal, sedan
 Daftar pustaka perlu diisi dengan sumber yang benar-benar dibaca dan digunakan. Pastikan setiap sumber yang dikutip dalam isi makalah memiliki entri yang sesuai, dengan judul, penulis, tahun, dan tautan atau DOI yang benar.
 
 {{< include "../../includes/uts-penilaian.md" >}}
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

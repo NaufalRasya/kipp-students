@@ -1,10 +1,10 @@
----
-title: "UTS Performance Evidence Package"
+﻿---
+title: "Portfolio Minggu 8 — UTS KIPP"
 week: 8
 status: "Siap Dinilai"
 self_score: "—"
 assessor_score: "—"
-description: "Integrated performance Target–Attention–Interest."
+description: "Makalah pra-UTS dan lima laporan kasus individual."
 categories: [Assessment, UTS]
 ---
 
@@ -23,69 +23,3 @@ Mengintegrasikan person recognition, state recognition, repertoire, language, re
 :::
 
 {{< include ../includes/evidence-template.md >}}
-
-
-## Performance card
-
-- **Person/target:** Dimas pada Kasus 1, Elsa dan Ali pada Kasus 2, serta Ali dan Budi pada Kasus 3.
-- **Initial state:** Target memiliki kebutuhan dan kekhawatiran yang berbeda, seperti takut gagal, merasa tugas tidak adil, kesulitan mengerjakan tugas, dan khawatir terhadap perubahan proses kerja.
-- **Objective:** Memahami keadaan target, menyesuaikan komunikasi, dan membantu target menemukan langkah tindakan yang sesuai.
-- **Evidence:** Lima sesi simulasi UTS: Kasus 1, Kasus 2a, Kasus 2b, Kasus 3a, dan Kasus 3b.
-- **Boundary:** Evidence berasal dari simulasi percakapan teks. Rencana tindakan tidak dianggap sebagai hasil nyata sebelum diuji.
-
-## Decisive moment
-
-Pada Kasus 2b, Ali menyampaikan bahwa bagian tugas yang diterimanya lebih sulit dari perkiraan dan ia khawatir merepotkan anggota kelompok lainnya.
-
-Saya menanggapi dengan menjelaskan bahwa setiap anggota tetap bertanggung jawab atas tugasnya, tetapi meminta bantuan ketika mengalami kesulitan merupakan bagian dari kerja sama. Saya menyarankan Ali menjelaskan bagian yang belum dipahami agar anggota lain dapat membantu secara spesifik.
-
-Momen ini menunjukkan upaya saya menyeimbangkan tanggung jawab individu dengan dukungan kelompok. Namun, saya masih perlu memastikan bahwa bahasa yang saya gunakan tidak terdengar terlalu langsung.
-
-## Observer feedback dan replay
-
-Berdasarkan refleksi saya sendiri, terdapat tiga hal yang perlu diperhatikan:
-
-1. Saya cukup aktif menggali masalah dan menawarkan solusi.
-2. Saya terkadang terlalu cepat memberikan saran sebelum memastikan bahwa saya memahami masalah target.
-3. Jawaban saya kadang berulang dan belum menjelaskan langkah pertama secara konkret.
-
-Pada replay berikutnya, saya akan mencoba mengatakan:
-
-> "Kalau aku pahami, bagian tugas ini lebih sulit dari perkiraan dan kamu khawatir merepotkan anggota lain. Bagian mana yang paling membuatmu kesulitan? Kita bisa cari langkah pertama yang dapat kamu kerjakan, lalu tentukan bantuan apa yang kamu perlukan."
-
-Replay tersebut merupakan rencana perbaikan, bukan percakapan yang sudah dilakukan. Saya perlu mengujinya dalam latihan lanjutan.
-
-## Evidence package
-
-- Laporan sesi Kasus 1.
-- Laporan sesi Kasus 2a.
-- Laporan sesi Kasus 2b.
-- Laporan sesi Kasus 3a.
-- Laporan sesi Kasus 3b.
-- Refleksi ASK dan rencana replay.
-
-Laporan sesi digunakan sebagai evidence utama untuk mengevaluasi cara saya mengenali keadaan target, memilih respons, dan menyesuaikan komunikasi. Rekaman atau observer sheet terpisah hanya dicantumkan apabila benar-benar tersedia.
-
-AI digunakan sebagai lawan bicara simulasi dan membantu penyusunan dokumentasi. Isi laporan perlu diperiksa kembali dengan percakapan asli. Hasil simulasi tidak membuktikan bahwa rencana tindakan telah berhasil di dunia nyata.
-
-## Self-assessment
-
-| Dimensi | Skor | Evidence singkat |
-|---|---:|---|
-| Person & Character | 3 | Saya membedakan situasi dan kebutuhan target dalam setiap kasus. |
-| Objective & State | 3 | Saya mengenali sejumlah kekhawatiran, tetapi masih perlu menggali dampak dan kendala lebih dalam. |
-| Repertoire, Language & AI | 3 | Saya menggunakan pertanyaan dan alternatif solusi, tetapi bahasa terkadang terlalu langsung atau berulang. |
-| Response & Adaptation | 3 | Saya menyesuaikan solusi dengan konteks, tetapi langkah awal belum selalu konkret. |
-| Agreement, Action & Relationship | 3 | Saya mendorong tanggung jawab dan kerja sama, tetapi tindak lanjut perlu lebih terukur. |
-
-**Total: 15/20**
-
-::: {.assessor-only}
-### Assessment dosen
-
-**Skor:** — / 20  
-**Evidence yang mendukung:** —  
-**Prioritas perbaikan:** —  
-**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
-:::
-
